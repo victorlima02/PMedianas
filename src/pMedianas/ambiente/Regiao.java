@@ -23,7 +23,7 @@
  */
 package pMedianas.ambiente;
 
-import ic.ce.populacional.Ambiente;
+import ic.ce.base.Ambiente;
 import java.util.List;
 
 /**

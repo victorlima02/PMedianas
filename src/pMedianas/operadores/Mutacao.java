@@ -23,8 +23,8 @@
  */
 package pMedianas.operadores;
 
-import ic.ce.populacional.seres.permutacoes.muradores.MutadorPermutacao;
-import ic.ce.populacional.utilidades.IndiceAleatorio;
+import ic.ce.seres.permutacoes.muradores.MutadorPermutacao;
+import ic.ce.base.utilidades.IndiceAleatorio;
 import pMedianas.ambiente.MapaDeDistribuicao;
 
 

@@ -1,7 +1,7 @@
 package pMedianas.operadores;
 
-import ic.ce.populacional.seres.permutacoes.SerPermutacao;
-import ic.ce.populacional.seres.permutacoes.recombinadores.PMX;
+import ic.ce.seres.permutacoes.SerPermutacao;
+import ic.ce.seres.permutacoes.recombinadores.PMX;
 
 /**
  *

@@ -24,8 +24,8 @@
 package pMedianas.operadores;
 
 
-import ic.ce.populacional.seres.permutacoes.GeradorPermutacoes;
-import ic.ce.populacional.seres.permutacoes.SerPermutacao;
+import ic.ce.seres.permutacoes.GeradorPermutacoes;
+import ic.ce.seres.permutacoes.SerPermutacao;
 import java.util.List;
 import pMedianas.ambiente.MapaDeDistribuicao;
 

@@ -23,9 +23,9 @@
  */
 package pMedianas.ambiente;
 
-import ic.ce.populacional.Caracteristica;
-import ic.ce.populacional.seres.permutacoes.LocusPermutacao;
-import ic.ce.populacional.seres.permutacoes.SerPermutacao;
+import ic.ce.base.Caracteristica;
+import ic.ce.seres.permutacoes.LocusPermutacao;
+import ic.ce.seres.permutacoes.SerPermutacao;
 import java.util.ArrayList;
 import java.util.List;
 

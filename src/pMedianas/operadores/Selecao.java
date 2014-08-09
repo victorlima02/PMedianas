@@ -23,7 +23,7 @@
  */
 package pMedianas.operadores;
 
-import ic.ce.populacional.Ambiente;
+import ic.ce.base.Ambiente;
 import ic.ce.populacional.Populacao;
 import ic.ce.populacional.algoritmo.operadores.Seletor;
 import java.util.ArrayList;
